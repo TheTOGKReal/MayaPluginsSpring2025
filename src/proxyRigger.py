@@ -48,7 +48,6 @@ class QMayaWindow(QWidget):
         self.setWindowFlags(Qt.WindowType.Window)
         self.setObjectName(self.GetWindowHash())
 
-        
 
     def GetWindowHash(self):
         return "valid crashout"
