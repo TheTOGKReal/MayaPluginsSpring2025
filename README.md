@@ -12,3 +12,5 @@ Rigs any 3 joint limb
 * controls controller size
 * controls controller color
 * modular approach
+* allows for animation clip modificaiton
+* base weighting
